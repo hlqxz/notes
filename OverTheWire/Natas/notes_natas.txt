@@ -1,0 +1,23 @@
+natas1:		gtVrDuiDfck831PqWsLEZy5gyDz1clto	# Inspect element the page, password hidden in the HTML page code (commented)				
+
+natas2:		ZluruAthQk7Q2MqmDeTiUij2ZvWy2mBi	# Use the drop down options to inspect element the page
+
+natas3:		sJIJNW6ucpu6HPZ1ZAchaDtwd7oGrD14	# Page loads an image file, checked the /files/users.txt
+
+natas4:		Z9tkRkWmpt9Qr7XrR5jWRkgOU901swEZ	# /robot.txt is used to find the secret url. robots.txt is used to prevent botsfrom indexing specific urls
+
+natas5:		iX6IOfmpN7AYOQGPwtn3fXpbaJVJcHfq	# Used BurpSuite to change the referer
+
+natas6:		aGoY4q2Dc6MgDq4oL4YtoKtyAg9PeHa1	# Used BurpSuite to change the login status
+
+natas7:		7z3hEENjQtflzgnT29q7wAvMNfZdh0i9	# Used dirb to find directories. /include/secret.inc had the secret
+
+natas8:		DBfUBfqQG69KvJvJ1iAbMoIpwSNQ9bWe	# Changed the PATH for href to the password file's path
+
+natas9:		W0mMhUcRRnG8dcghE4qvk3JA9lGt8nDl	# Used the source code to decrypt the password
+
+natas10:	nOpp1igQAkUzaI1GUUjzn1bFVj7xCNzu	# Used '&' to execute shell code
+
+natas11:	U82q5TCMMQ9xuFoI3dYX61s7OZD9JKoK	# Used grep to print out the natas11 password file which is inside /etc/natas_webpass/
+
+natas12:	EDXp0pS26wLKHZy1rDBPUZk0RKfLGIR3	# Used XOR decryption to find the key and then generated a new cookie using XOR encryption with 'showpassword' parameter set to yes.

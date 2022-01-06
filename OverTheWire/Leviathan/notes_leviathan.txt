@@ -1,0 +1,3 @@
+leviathan1:	rioGegei8m	# Used 'ls -a' to find hidden directory (.backup). Checked the bookmarks.html by searching for leviathan1, used vim. 
+
+leviathan2:	ougahZi8Ta	# Used 'lstrace' to find the hardcoded password. 
